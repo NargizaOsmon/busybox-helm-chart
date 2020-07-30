@@ -1,0 +1,7 @@
+container:
+  name: hello 
+  image: busybox
+  repository: busybox
+  tag:  1.32 
+cronjob:
+  name: hello 
